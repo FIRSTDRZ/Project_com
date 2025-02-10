@@ -19,7 +19,9 @@ int main() {
     cout<<"Please choose the service you want to use: ";
     
     int choice;
-    cin>>choice;    
+    cin>>choice;   
+    cout << "bwobvouwnvobw"; 
     
     return 0;
 }
+    
